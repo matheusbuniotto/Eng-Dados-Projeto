@@ -1,11 +1,7 @@
 # Projeto Eng. de Dados
  
 ## Overview
-Objetivo do projeto:
-- Extrair dados sobre taxis de Nova York no site
-- 
-- 
-![overview-image-flow-chart](assets\overview-img.jpg)
+![overview-image-flow-chart]("https://github.com/matheusbuniotto/Eng-Dados-Projeto/blob/master/assets/overview-img.jpg?raw=true")
 
 
 ### Ferramentas
